@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H6q89Gj5sOhucuNT+Zc2tixEJ8Gs3J2VEdvraXZbbYZKyfpefKakmb8gp9mRt6rmLpa0FbBLI468OIgzxVPa5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\famal\\OneDrive\\Escritorio\\desarrollo\\C#\\UI-utils\\UI-utils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\famal\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
